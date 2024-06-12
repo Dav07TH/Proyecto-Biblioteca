@@ -1,4 +1,4 @@
-# ITPLibrary
+# Biblio-Source
 Basic system for managing a library on Java. It's a school project that I did for Object Oriented Programming. Programmed in Java.
 
 ## Features
